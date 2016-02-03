@@ -1,0 +1,37 @@
+new
+--This line, and those below, will be ignored--
+
+A    branches
+A    branches/docker-compose.yml
+A    branches/result-app
+A    branches/result-app/Dockerfile
+A    branches/result-app/package.json
+A    branches/result-app/server.js
+A    branches/result-app/views
+A    branches/result-app/views/app.js
+A    branches/result-app/views/index.html
+A    branches/result-app/views/socket.io.js
+A    branches/result-app/views/stylesheets
+A    branches/result-app/views/stylesheets/style.css
+A    branches/voting-app
+A    branches/voting-app/Dockerfile
+A    branches/voting-app/app.py
+A    branches/voting-app/requirements.txt
+A    branches/voting-app/static
+A    branches/voting-app/static/stylesheets
+A    branches/voting-app/static/stylesheets/style.css
+A    branches/voting-app/templates
+A    branches/voting-app/templates/index.html
+A    branches/voting-app/utils
+A    branches/voting-app/utils/__init__.py
+A    branches/worker
+A    branches/worker/Dockerfile
+A    branches/worker/pom.xml
+A    branches/worker/src
+A    branches/worker/src/main
+A    branches/worker/src/main/java
+A    branches/worker/src/main/java/worker
+A    branches/worker/src/main/java/worker/Worker.java
+A    tags
+A    trunk
+A    trunk/test.txt
